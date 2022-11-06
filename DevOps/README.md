@@ -1,4 +1,4 @@
-There arr all projects that were done.
+There are all projects that were done.
 
 - D01 - individual work. I learned all basic commands and utilities of Linux. Completed with 100 %;
 
